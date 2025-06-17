@@ -1,0 +1,1 @@
+http://75.217.196.248:7070/add_weather_log
