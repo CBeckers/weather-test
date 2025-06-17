@@ -59,7 +59,7 @@ if __name__ == "__main__":
     print("--- Sending Weather Data (Current Time) ---")
     send_weather_data(
         weather_condition="Partly Cloudy",
-        temperature=22.3,
-        wind_speed=8.5
+        temperature=90,
+        wind_speed=15
     )
     print("\n" + "="*50 + "\n")
